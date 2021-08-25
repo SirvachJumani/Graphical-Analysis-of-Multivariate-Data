@@ -1,4 +1,4 @@
-# MVV-Stats-Graphical-Analysis-of-Multivariate-Data
+# Graphical-Analysis-of-Multivariate-Data
 University Trier - Multivariate Statistics - Exercise 1
 
 # Summary of the different Multivariate Plots
